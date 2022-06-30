@@ -176,9 +176,6 @@ a {
     background-color: #372865;
 }
 
-.box{
-    opacity: 1;
-}
 .stack-top{
     z-index: 9;
 }
@@ -226,7 +223,7 @@ a {
         left: 0;
      }
      body {
-        padding-left: 15px;
+        padding-left: 17px;
         padding-right: 15px;
      }
      .sec {
@@ -261,7 +258,7 @@ a {
         justify-content: space-between;
      }
      .art {
-        padding-right: 20px;
+        padding-right: 10px;
      }
      p {
         font-size: 1.8vh;
@@ -269,5 +266,7 @@ a {
      .last {
         gap: 10px;
         padding-top: 30px;
+        align-items: center;
+        text-align: center;
      }
 }
